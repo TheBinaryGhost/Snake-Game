@@ -23,7 +23,7 @@ This is a **classic Snake Game** built using **Python** and **Tkinter**. Control
    ```
 2. **Run the Game:**
    ```sh
-   python snake_game.py
+   python game.py
    ```
 
 ## 📜 License
